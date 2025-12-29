@@ -4,7 +4,7 @@
       <h1 style="color:#8B5CF6; margin:0;">THIS IS ME</h1>
     </td>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xpdnI0ODFjNGs2cWNienJzN3RleDhtYmxuczZpYjlkbzV2dTFpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="80" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xpdnI0ODFjNGs2cWNienJzN3RleDhtYmxuczZpYjlkbzV2dTFpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
     </td>
   </tr>
 </table>
