@@ -12,7 +12,7 @@
 **Junior Frontend Developer | Web Enthusiast**
 
 <p align="center">
-  <img src="img/github-header-banner.png" width="400" />
+  <img src="github-header-banner.png" width="400" />
 </p>
 
 ---
