@@ -1,4 +1,11 @@
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=400&lines=THIS+IS+ME"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
      <img src="github-header-banner.png" width="520" alt="Header Banner" />
 </p>
 
@@ -38,9 +45,13 @@ Saat ini saya mendalami **HTML, CSS, JavaScript**, serta mulai membangun project
 - Membangun project frontend yang konsisten
 - Memahami best practice UI dan clean code
 - Siap melamar **Internship / Junior Frontend Developer**
-
+   
 ---
 
-<p align="center" style="margin:24px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="500" />
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"
+    width="480"
+    alt="Random Dev Quote"
+  />
 </p>
