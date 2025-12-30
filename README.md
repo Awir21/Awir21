@@ -31,17 +31,6 @@ Saat ini saya mendalami **HTML, CSS, JavaScript**, serta mulai membangun project
 
 ---
 
-## 🎯 Current Focus
-- Memperdalam React dan **component-based architecture**
-- Responsive & mobile-first design
-- Integrasi **REST API** di frontend
-- Menulis kode yang lebih bersih dan terstruktur
-- Membangun project frontend yang konsisten
-- Memahami best practice UI dan clean code
-- Siap melamar **Internship / Junior Frontend Developer**
-   
----
-
 <p align="center">
   <img
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github"
