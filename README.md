@@ -28,12 +28,6 @@ Saat ini saya mendalami **HTML, CSS, JavaScript**, serta mulai membangun project
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 ---
 
